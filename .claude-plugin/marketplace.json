@@ -1,0 +1,20 @@
+{
+  "name": "audit-your-business",
+  "description": "A legal checkup for small businesses, run by your AI assistant.",
+  "owner": {
+    "name": "Aaron Hall",
+    "url": "https://aaronhall.com/audit/"
+  },
+  "plugins": [
+    {
+      "name": "audit-your-business",
+      "description": "A legal checkup for small businesses: the Company Health Checklist plus live research of the federal, state, and local law where the business operates, with a prioritized report.",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "Aaron Hall",
+        "url": "https://aaronhall.com/audit/"
+      }
+    }
+  ]
+}
