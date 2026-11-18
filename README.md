@@ -39,6 +39,10 @@ The more it can read, the more it can check. The report's **Information I Could 
 
 Start your assistant in a folder that holds your business records (or connect the accounts where they live), then ask: *"Audit my business."* A simple business takes well under an hour; a business with several locations takes longer, mostly in research.
 
+## Privacy
+
+This plugin is a set of instructions; it has no server and collects nothing. Your AI assistant reads the business records you give it access to and writes its notes and report to a `legal-checkup/` folder on your own computer. The only information that leaves your machine is the web searches the legal research needs (a topic and a place, such as a state's annual report deadline), plus whatever your AI provider's own terms cover. The plugin never writes Social Security numbers, bank account numbers, or passwords into its files. Delete the `legal-checkup/` folder to remove everything it saved.
+
 ## Good to Know
 
 - The research is only as good as the sources your assistant can reach. Each finding is labeled **Confirmed**, **Secondary only**, or **Not confirmed**, so you can see which ones to double-check.

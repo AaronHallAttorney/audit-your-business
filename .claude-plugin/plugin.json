@@ -8,6 +8,8 @@
   },
   "homepage": "https://aaronhall.com/audit/",
   "repository": "https://github.com/AaronHallAttorney/audit-your-business",
+  "privacyPolicyUrl": "https://github.com/AaronHallAttorney/audit-your-business#privacy",
+  "documentationUrl": "https://github.com/AaronHallAttorney/audit-your-business#readme",
   "license": "CC-BY-4.0",
   "keywords": ["small-business", "legal", "checklist", "compliance", "audit", "business-owner"]
 }
